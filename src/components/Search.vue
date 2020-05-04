@@ -1,16 +1,19 @@
 <template>
-	<div class="flex bg-primary">
+	<div class="block sm:flex bg-primary">
 		<!-- Logo -->
-		<div class="px-4 py-2">
-			<a href="#">
-				<img class="h-12 w-12" src="../assets/logo.png" alt="Logo" srcset="" />
-			</a>
+		<div class="mx-auto flex ml-4 py-2 items-center">
+			<div class="mx-auto flex items-center">
+				<a href="#">
+					<img class="w-16 h-16 sm:h-12" src="../assets/logo.png" alt="Logo" srcset="" />
+				</a>
+				<span class="text-lg font-semibold">Website</span>
+			</div>
 		</div>
-		<div class="w-full px-4 py-2 flex relative">
+		<div class="w-full pr-4 py-2 flex relative">
 			<input
-				class="ml-4 w-full px-12 py-2 rounded outline-0"
+				class="ml-4 w-full px-12 py-2 rounded outline-0 focus:outline-none"
 				type="text"
-				placeholder="Search by Email, Property Address, PID, Phone Number or Contract Name"
+				placeholder="Search"
 			/>
 			<div class="flex absolute px-8 py-3 text-gray-500">
 				<svg
