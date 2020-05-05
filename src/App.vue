@@ -4,20 +4,20 @@
 
 		<!-- Panels -->
 		<div class="flex">
-			<PanelLeft />
+			<LeftPanel />
 		</div>
 	</div>
 </template>
 
 <script>
 import Search from './components/Search.vue';
-import PanelLeft from './components/PanelLeft.vue';
+import LeftPanel from './components/LeftPanel.vue';
 
 export default {
 	name: 'App',
 	components: {
 		Search,
-		PanelLeft,
+		LeftPanel,
 	},
 };
 </script>
