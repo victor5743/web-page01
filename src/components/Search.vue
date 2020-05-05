@@ -11,7 +11,7 @@
 		</div>
 		<div class="w-full pr-4 py-2 flex relative">
 			<input
-				class="ml-4 w-full px-12 py-2 rounded outline-0 focus:outline-none"
+				class="ml-4 w-full px-12 py-2 rounded outline-0 border border-transparent focus:outline-none focus:border-secondary"
 				type="text"
 				placeholder="Search"
 			/>
