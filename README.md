@@ -1,6 +1,6 @@
 # web-page01
 
-Responsive UI interface to buy an application using:
+UI interface to buy an application using:
 
 - Vue JS
 - Tailwind CSS
