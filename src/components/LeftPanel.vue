@@ -1,5 +1,5 @@
 <template>
-	<div class="block w-1/5 border-r-2 border-gray-400">
+	<div class="block w-1/4 border-r-2 border-gray-400">
 		<ul class="text-sm border-b-2 border-gray-400">
 			<a href="#">
 				<li class="items-center py-2 pl-4 mb-1 hover:bg-gray-400">

@@ -37,7 +37,7 @@
 		</div>
 		<!-- Details section -->
 		<div
-			class="bg-white border border-primary border-t-4 border-b-0 border-l-0 border-r-0 px-4 py-6 mx-4 mb-4"
+			class="bg-white border border-primary border-t-4 border-b-0 border-l-0 border-r-0 px-4 py-6 mx-4 mb-4 shadow-md"
 		>
 			<div class="block lg:flex">
 				<!-- Details -->
