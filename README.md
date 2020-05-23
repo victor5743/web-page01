@@ -1,6 +1,6 @@
 # web-page01
 
-UI interface to buy an application using:
+UI interface using:
 
 - Vue JS
 - Tailwind CSS
